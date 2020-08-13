@@ -1,12 +1,4 @@
----
-permalink: /404.html
----
-
 title: NetRival
 description: 
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-modernist
-
-gems:
-  - jekyll-mentions
