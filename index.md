@@ -1,1 +1,8 @@
-Just some random web tools.
+Hello friends,
+
+After a long time almost nine and half years, its time to say goodbye!
+
+We have been busy on some other projects and it was hard to maintian the site and keep the content updated. We appreciate your visit. If you have any comment or suggestion send us an email to anand[AT]netrival[DOT]com.
+
+Thanks,
+
